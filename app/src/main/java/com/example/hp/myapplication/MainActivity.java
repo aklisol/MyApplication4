@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     Float f1,f2;
     Integer percent;
     Button Calc;
+    //this new
 
 
     @Override
